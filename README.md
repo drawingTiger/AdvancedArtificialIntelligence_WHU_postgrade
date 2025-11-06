@@ -1,5 +1,6 @@
 # AdvancedArtificialIntelligence_WHU_postgrade
 武大网安硕士课程 高级人工智能 课程大作业
+手写数字识别
 代码依旧存在许多不足
 其中使用SKLEARN库构建的模型在运行过程中准确率较差
 笔者所在课题组无法提供GPU
